@@ -1,3 +1,7 @@
 # Stolen alert feature
 
-Description: the function of major classes, dependency and the overall flow of information.
+Description: Details about the major classes, their function, dependency and the overall flow of information.
+
+#List of classes
+
+- 
