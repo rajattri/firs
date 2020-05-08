@@ -15,8 +15,8 @@ Description: Details about the major classes, their function, dependency and the
 
 ## StolenAlertView
 
--> extends FramelayoutViewController
--> implements the view interface defined in StolenAlertPresenter class
+->  extends FramelayoutViewController<br>
+->  implements the view interface defined in StolenAlertPresenter class<br>
 
 Bindview: The Textview, button IDs in Stolen.xml and stolen_layout_vin.xml file are binded to this view class. 
 
