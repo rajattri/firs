@@ -126,6 +126,8 @@ In the centre of the screen, it displays VIN and vehicle registration number.
 NOTE: There are 3 other TextViews and 1 image View to display very standard information about the stolen Profile. These views are also not linked to any methods. 
 
 ![](uml_StolenAlertFeature.PNG)
+
 ![](Sew_TrackingCentreButton.PNG)
+
 ![](Sew_openPortalLink.PNG)
 
