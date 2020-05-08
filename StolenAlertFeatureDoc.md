@@ -31,7 +31,7 @@ Contains:
 * fun displayRegistration(registration: String)
 * fun displayVin(vin: String) 
  
-the followign functions respond to the click event, then launch their respective intents. The presenter calls these methods sequentially.these functions respond to the click event, then launch their respective intents. The presenter calls these methods sequentially.
+the following functions respond to the click event, then launch their respective intents. The presenter calls these methods sequentially.these functions respond to the click event, then launch their respective intents. The presenter calls these methods sequentially.
 
 * onPortalLinkClicked & launchPortalIntent
 * onTrackingCentreButtonClicked & launchDialIntent
@@ -50,10 +50,10 @@ The following function enables/disables the button conditionally.Also changes th
 
 => Extends the BasePresenter class. 
 
-Employs following class constructors: 
-=> assistanceRepository, environmentRepository, vehicleRepository, analytics and scheduler.
+Employs following class constructors: <br>
+=> assistanceRepository, environmentRepository, vehicleRepository, analytics and scheduler.<br>
 
-=> Defines View interface.
+=> Defines View interface.<br>
 
 This class contacts the repositories to fetch information like TrackingCentreNumber, VIN, RegistrationNumber.<br>
 Also this information is then transferred to the StolenAlertView class, using the **View** interface.
