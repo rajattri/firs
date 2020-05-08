@@ -127,7 +127,7 @@ NOTE: There are 3 other TextViews and 1 image View to display very standard info
 
 ![](uml_StolenAlertFeature.PNG)
 
-![](Sew_TrackingCentreButton.PNG)
+![](Seq_TrackingCentreButton.PNG)
 
-![](Sew_openPortalLink.PNG)
+![](Seq_openPortalLink.PNG)
 
