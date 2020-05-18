@@ -153,7 +153,7 @@ Progressbar
 
 Note: Viewswitcher is a class which extends ViewAnimator. it helps in navigating to the success/error screen, with slide-in/slide-out animations.
 
-![](resetpasswrodUML.PNG)
+![](resetpasswordUML.PNG)
 
 ![](ResetPasswordButton.PNG)
 
